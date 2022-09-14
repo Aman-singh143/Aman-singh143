@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
- I'm Aman Singh<br>A passionate frontend developer from India<br>
+ I'm Aman Singh<br>A passionate frontend developer from India ,who always ready for learn and contribute in community <br>
 
 
 ## 🌐 Socials:
