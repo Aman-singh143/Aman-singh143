@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
- I'm Aman Singh<br>A passionate frontend developer from India ,who always ready for learn and contribute in community <br>
+I'm a dedicated computer engineering student with a passion for data science and programming. I thrive in dynamic environments and enjoy tackling challenging projects. My goal is to leverage my skills to make a positive impact in the tech world. <br>
 
 
 ## 🌐 Socials:
