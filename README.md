@@ -128,6 +128,13 @@ Currently based in **Surat, Gujarat** · Open to relocation across India · Imme
 
 ---
 
+### Certifications
+
+**Oracle Cloud Infrastructure Certified Data Science Professional** — Oracle · 2025
+[![View Badge](https://img.shields.io/badge/View_Badge-F80000?style=flat-square&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EE9ED7F5A3D94EC9D9B9FFA9C4A1E3D60EDB0D53FCA28F4CE25E03A76A82C0C5)
+
+---
+
 ### Currently Learning
 
 `Async Python` · `Event-driven architecture` · `AWS fundamentals` · `Clean architecture patterns`
